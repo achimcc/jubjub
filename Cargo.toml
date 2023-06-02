@@ -19,6 +19,7 @@ default-features = false
 
 [dependencies.bls12_381]
 version = "0.8"
+git = "https://github.com/achimcc/bls12_381"
 default-features = false
 
 [dependencies.ff]
